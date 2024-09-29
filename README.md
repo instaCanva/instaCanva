@@ -7,7 +7,7 @@ instaCanva is an innovative WhatsApp bot that allows users to manage their Canva
 
 ---
 
-###Inspiration ✨:
+### Inspiration ✨:
 
 The inspiration for instaCanva came from a personal milestone—reaching 200 designs on Canva. As a huge fan of Canva, I realized the growing need for a more accessible way to manage an increasing number of designs on the go. This need, combined with the rising prevalence of APIs and AI in modern applications, led me to team up with a fellow Canva enthusiast to create a solution that integrates Canva’s capabilities into WhatsApp. The idea is rooted in the belief that future applications will increasingly build on existing platforms to enhance productivity and efficiency, much like InstaCanva does.
 
